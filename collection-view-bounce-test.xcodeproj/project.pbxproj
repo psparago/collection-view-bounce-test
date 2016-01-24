@@ -14,7 +14,6 @@
 		D0A1403B1C54353E00BBC967 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0A140391C54353E00BBC967 /* LaunchScreen.storyboard */; };
 		D0A140431C5513B500BBC967 /* SelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A140421C5513B500BBC967 /* SelectionViewController.swift */; };
 		D0A140451C551BF300BBC967 /* SelectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A140441C551BF300BBC967 /* SelectionCell.swift */; };
-		D0A140471C551FB800BBC967 /* CenteringFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A140461C551FB800BBC967 /* CenteringFlowLayout.swift */; };
 		D0A140491C5523DB00BBC967 /* UIExentsions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A140481C5523DB00BBC967 /* UIExentsions.swift */; };
 		D0A1404B1C554D4000BBC967 /* CenteringFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A1404A1C554D4000BBC967 /* CenteringFlowLayout.swift */; };
 /* End PBXBuildFile section */
@@ -29,7 +28,6 @@
 		D0A1403C1C54353E00BBC967 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D0A140421C5513B500BBC967 /* SelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectionViewController.swift; sourceTree = "<group>"; };
 		D0A140441C551BF300BBC967 /* SelectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectionCell.swift; sourceTree = "<group>"; };
-		D0A140461C551FB800BBC967 /* CenteringFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CenteringFlowLayout.swift; path = ../CenteringFlowLayout.swift; sourceTree = "<group>"; };
 		D0A140481C5523DB00BBC967 /* UIExentsions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIExentsions.swift; sourceTree = "<group>"; };
 		D0A1404A1C554D4000BBC967 /* CenteringFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CenteringFlowLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,7 +64,6 @@
 			children = (
 				D0A1404A1C554D4000BBC967 /* CenteringFlowLayout.swift */,
 				D0A140301C54353E00BBC967 /* AppDelegate.swift */,
-				D0A140461C551FB800BBC967 /* CenteringFlowLayout.swift */,
 				D0A140441C551BF300BBC967 /* SelectionCell.swift */,
 				D0A140421C5513B500BBC967 /* SelectionViewController.swift */,
 				D0A140481C5523DB00BBC967 /* UIExentsions.swift */,
@@ -152,7 +149,6 @@
 			files = (
 				D0A140451C551BF300BBC967 /* SelectionCell.swift in Sources */,
 				D0A140431C5513B500BBC967 /* SelectionViewController.swift in Sources */,
-				D0A140471C551FB800BBC967 /* CenteringFlowLayout.swift in Sources */,
 				D0A1404B1C554D4000BBC967 /* CenteringFlowLayout.swift in Sources */,
 				D0A140491C5523DB00BBC967 /* UIExentsions.swift in Sources */,
 				D0A140331C54353E00BBC967 /* ViewController.swift in Sources */,
